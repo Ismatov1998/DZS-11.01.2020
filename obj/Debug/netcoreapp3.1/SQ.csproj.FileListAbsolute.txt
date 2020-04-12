@@ -1,0 +1,11 @@
+C:\AK\SQ\bin\Debug\netcoreapp3.1\SQ.exe
+C:\AK\SQ\bin\Debug\netcoreapp3.1\SQ.deps.json
+C:\AK\SQ\bin\Debug\netcoreapp3.1\SQ.runtimeconfig.json
+C:\AK\SQ\bin\Debug\netcoreapp3.1\SQ.runtimeconfig.dev.json
+C:\AK\SQ\bin\Debug\netcoreapp3.1\SQ.dll
+C:\AK\SQ\bin\Debug\netcoreapp3.1\SQ.pdb
+C:\AK\SQ\obj\Debug\netcoreapp3.1\SQ.csprojAssemblyReference.cache
+C:\AK\SQ\obj\Debug\netcoreapp3.1\SQ.AssemblyInfoInputs.cache
+C:\AK\SQ\obj\Debug\netcoreapp3.1\SQ.AssemblyInfo.cs
+C:\AK\SQ\obj\Debug\netcoreapp3.1\SQ.dll
+C:\AK\SQ\obj\Debug\netcoreapp3.1\SQ.pdb
